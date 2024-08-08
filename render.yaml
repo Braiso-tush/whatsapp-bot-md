@@ -8,9 +8,9 @@ services:
     autoDeploy: true
     envVars:
       - key: SUDO
-        sync: false
+        sync: 254776728535
       - key: PREFIX
-        sync: false
+        sync: ,
       - key: STICKER_PACKNAME
         value: ',LyFE'
       - key: RMBG_KEY
@@ -24,18 +24,18 @@ services:
       - key: GEMINI_API_KEY
         value: 'null'
       - key: RENDER_NAME
-        sync: false
+        sync: gstuff
       - key: RENDER_API_KEY
-        sync: false
+        sync: rnd_pTHJj8nLMSImiJtaM0UToZgKIAWn
       - key: ANTI_DELETE
         value: 'off'
       - key: AUTO_STATUS_VIEW
-        value: 'false'
+        value: 'no-dl'
       - key: SEND_READ
         value: 'false'
       - key: SESSION_ID
-        sync: false
+        sync: 8_8_0e8f_4d01_3137
       - key: PORT
         value: '3000'
       - key: DATABASE_URL
-        sync: false
+        sync: postgresql://levanter_b_user:ry6ZR8a63jlYv98r8271l5sGKHv3zcJy@dpg-cqm7cso8fa8c73ccqlc0-a/levanter_b
